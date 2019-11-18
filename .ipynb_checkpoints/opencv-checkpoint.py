@@ -1,3 +1,6 @@
+# OpenCV for Computer Vision
+# Documentation : https://docs.opencv.org/2.4/
+
 import cv2
 
 cap = cv2.VideoCapture(0)
